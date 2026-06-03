@@ -2,6 +2,6 @@
 
 [![GitHub Badge](https://github.com/mgprz/mgprz/edit/main/README.md)
 ![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://github.com/mgprz/mgprz/edit/main/README.md/)
-![Visitor Badge](https://komarev.com/ghpvc/?username=jordancaraballo)
+
 
 I am an Electrical Engineer passionate about power systems, renewable energy, aerospace technology, and continuous learning. I am currently working in electrical design engineering while expanding my knowledge in Data Science, Artificial Intelligence, and advanced power system analysis. My interests include transmission planning, grid modernization, renewable energy integration, and applying innovative technologies to solve real-world engineering challenges. I enjoy collaborating on projects related to energy, AI, and community service, and I am always eager to learn from professionals across different industries. Beyond engineering, I have a strong passion for serving others, leadership development, scuba diving, outdoor activities, and personal growth. Feel free to ask me about electrical engineering, power systems, renewable energy, maintenance strategies, or my journey in engineering and technology. You can reach me through LinkedIn or at perezmonica379@gmail.com.
