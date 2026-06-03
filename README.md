@@ -1,6 +1,6 @@
 ## Monica Perez
 
-[![GitHub Badge](https://github.com/mgprz/mgprz/edit/main/README.md)
+[![GitHub Badge](https://img.shields.io/github/followers/jordancaraballo?style=social)]([https://github.com/jordancaraballo?tab=followers](https://github.com/mgprz/mgprz/edit/main/README.md))
 ![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://github.com/mgprz/mgprz/edit/main/README.md/)
 
 
